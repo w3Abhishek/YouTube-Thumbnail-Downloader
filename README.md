@@ -7,3 +7,5 @@ YouTube Thumbnail Downloader helps you to download YouTube video thumbnails in h
 3. Choose Quality and Download the Thumbnail
 
 Done!!!
+
+**note** : You can self host this project on your own server 
